@@ -1,2 +1,2 @@
 # personal-task-manager
-Practice Swift UI, Core Data, async await, BDD and TDD
+A personal project to practice Swift UI, Core Data, async await, BDD and TDD
